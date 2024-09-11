@@ -1,4 +1,4 @@
-# Eduminatti Assignment
+# Eduminatti Website Bug resolving
 
 This is an Internship Assignment that was supposed to be submitted as a Selection Process.
 
