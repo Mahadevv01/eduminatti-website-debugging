@@ -95,4 +95,4 @@ Here are some of the tools I used to analyse the site and get the above insights
 - Ping
 - Ping DOM
 - Web Page Test
-- Dotcom Tools.
+- Dotcom Tools
